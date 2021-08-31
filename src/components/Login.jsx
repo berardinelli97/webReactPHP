@@ -39,7 +39,7 @@ export default function Login(props){
 				<div className="col-sm-4 offset-4 mt-5">
 					<div className="card pt-5">
 						<div className="card-header text-center">
-							<h3>Login</h3>
+							<h3>Hola nuelsito</h3>
 						</div>
 						<div className="card-body text-center">
 							<div className="input-group mb-3">
